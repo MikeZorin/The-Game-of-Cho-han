@@ -12,6 +12,6 @@ the wagers, or the house takes them if there are no winners. There are 36 possib
 This program runs as a console app. To play, simply enter the names for player 1 and player 2. Then for every turn,
 each player will enter their guess. This will repeat until the number of rounds has hit the pre-set number. Then, the
 winner will be announced. It is possible for a tied game to occur, which the game will detect and announce. To
-change the number of rounds, simply change the value in ```main``` at ```ChoHan myGame(n)```.
+change the number of rounds, simply change the value ```n``` in ```main``` at ```ChoHan myGame(n)```.
 
 ![Gameplay](https://user-images.githubusercontent.com/95890436/212528955-6b43c0ea-789f-40e2-b928-470bbdcc1d09.PNG)
